@@ -1,0 +1,6 @@
+FOODS
+- Spaghetti
+- Ice Cream 
+- Fries 
+- Burger
+- Mango Shake
