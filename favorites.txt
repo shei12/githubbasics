@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 FOODS
 - Spaghetti
 - Ice Cream 
 - Fries 
 - Burger
 - Mango Shake
+=======
+MOVIES
+
+- Chinese Zodiac Sign
+- Vanguard
+- Police Story
+- Rush Hour (1-3)
+- Rob-B-Hood
+>>>>>>> movies
